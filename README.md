@@ -22,7 +22,7 @@ npx tsc index.ts --watch
 npx tsc --init
 ```
 
-4. 有了 tsconfig.json 使用 tsc 指令不需要指定 JS file, 會直接 compile 資料夾下所有 TS file
+5. 有了 tsconfig.json 使用 tsc 指令不需要指定 JS file, 會直接 compile 資料夾下所有 TS file
 
 ```
 npx tsc --watch
